@@ -11,7 +11,6 @@
   <div class="container d-flex justify-content-center">
     <div class="bg-white m-2 form-control-lg" style="width: 25%;">
       <div class="text-center">
-        <!-- <img style="height:80px;width:auto; margin: 20 20 20 0" src="/images/logo.png"> -->
         <div><strong><h4 class="text-danger">HỌC VIỆN CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG</h4></strong><h4>Posts and Telecommunications Institude of Technology</h4></div>
       </div>
       <h2>Đăng nhập</h2>
